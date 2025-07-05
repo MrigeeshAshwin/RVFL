@@ -3,7 +3,8 @@
 This repository contains code for enhancing the **Random Vector Functional Link (RVFL)** model using **small-world connectivity**, **Bayesian pruning**, and **robust initialization strategies**.
 
 ## Directory Structure
-```RVFL/
+```
+RVFL/
 ├── CorrRVFL/ 
 │ └── P1.ipynb 
 | └── P2.ipynb 
