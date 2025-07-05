@@ -3,17 +3,17 @@
 This repository contains code for enhancing the **Random Vector Functional Link (RVFL)** model using **small-world connectivity**, **Bayesian pruning**, and **robust initialization strategies**.
 
 ## Directory Structure
-RVFL/
+```RVFL/
 ├── CorrRVFL/ 
 │ └── P1.ipynb 
 | └── P2.ipynb 
 │
 ├── Vanilla_RVFL_and_variants/ 
-│ ├── dynamic_masking.ipynb
-│ └── autoencoder_init.ipynb
+│ ├── RVFL.ipynb
+│ └── Small_world_variants_final.ipynb
 │
 └── README.md 
-
+```
 ### `P1`: CorrRVFL Exploration
 
 * Explores the custom **CorrRVFL** model on regression datasets.
